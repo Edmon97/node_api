@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_DB_PWD": "node-shop",
+        "JWT_KEY": "secret"
+    }
+}
